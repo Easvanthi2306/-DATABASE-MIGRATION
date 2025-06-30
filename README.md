@@ -11,6 +11,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 
 DESCRIPTION:
+
 Task 3: Database Migration
 This task demonstrates a simple yet effective example of database migration between two database systems – MySQL and PostgreSQL – with a focus on preserving data integrity and schema mapping. The goal is to simulate the transfer of data from a source table (representing a MySQL environment) to a target table (representing a PostgreSQL environment).
 
